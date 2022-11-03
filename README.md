@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ericklarsen
+- 👋 Hi, I’m Erick Larsen but you can call me Erick 😊
 - 👀 I’m interested in javascript things
 - 🌱 I’m currently learning Sveltekit and Server side things
 
