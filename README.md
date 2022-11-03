@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ericklarsen
 - 👀 I’m interested in javascript things
-- 🌱 I’m currently learning Sveltekit and Go
+- 🌱 I’m currently learning Sveltekit and Server side things
 
 <!---
 ericklarsen/ericklarsen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
